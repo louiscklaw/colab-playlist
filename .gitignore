@@ -1,3 +1,7 @@
+**/*.weights.h5
+**/*.h5
+**/*.keras
+
 **/*.zip
 **/*.log
 **/*.tar.gz
@@ -23,3 +27,4 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
+
