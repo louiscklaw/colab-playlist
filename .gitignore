@@ -1,3 +1,4 @@
+**/*.keras
 **/*.weights.h5
 **/*.h5
 **/*.keras
@@ -5,6 +6,7 @@
 **/*.zip
 **/*.log
 **/*.tar.gz
+**/*.tgz
 **/*.jpg
 **/*.png
 **/*.pdf
